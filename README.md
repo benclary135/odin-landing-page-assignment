@@ -1,1 +1,3 @@
 # odin-landing-page-assignment
+
+This project was completed as an assignment to test my knowledge of HTML and CSS upon completing the 'Foundations' courses in each language offered by The Odin Project.  As of the time of writing, I still have one section of 'Foundations' left to go: the Javascript lessons.  I feel that I learned a staggering amount by completing this project, and really solidified my understanding of several core concepts in CSS that I was struggling with beforehand.  I'm pretty proud of my finished project, and happy with myself for getting outside my comfort zone by completing a few sections differently than was minimally necessary.

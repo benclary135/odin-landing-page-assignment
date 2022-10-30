@@ -96,7 +96,7 @@ body {
     flex-direction: column;
     background-color: rgb(212 227 250);
     justify-content: space-around;
-    padding: 75px;
+    padding: 50px 75px 75px 75px;
 }
 
 .cards-title {
@@ -158,6 +158,55 @@ gap: 10px;
     align-items: flex-end;
     font-size: 18px;
     color:rgb(31 41 55);
+}
+
+.call-to-action-section {
+    display: flex;
+    flex: auto;
+    background-color:rgb(22 51 96);
+    margin: 75px 175px;
+    padding: 50px;
+    border-radius: 1em;
+}
+
+.call-to-action-text {
+    display: flex;
+    flex: auto;
+    flex-flow: column wrap;
+    color: white;
+    gap: 20px;
+}
+
+.call-to-action-header {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.call-to-action-small {
+    font-size: 16px;
+}
+
+.call-to-action-button {
+    display: flex;
+    flex: auto;
+    align-items: center;
+    justify-content: center;
+}
+
+#call-to-action-button {
+    font-size: 24px;
+    font-weight: 400;
+    background-color: rgb(22 51 96);
+    color: white;
+    text-decoration: none;
+    border-radius: 12px;
+    border: 2px white solid;
+    padding: 13px 30px;
+}
+
+#call-to-action-button:hover {
+    background-color: white;
+    color: rgb(22 51 96);
 }
 
 .footer {
