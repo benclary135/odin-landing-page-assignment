@@ -85,14 +85,21 @@ body {
     margin-bottom: 15px;
 }
 
-.cards,
-.cards-captions{
+.cards {
     display: flex;
     flex: auto;
     flex-flow: row wrap;
     justify-content: space-evenly;
     margin: 12px 100px;
     text-align: center;
+}
+
+.card {
+    display: flex;
+    flex-flow: column wrap;
+    width: 250px;
+    height: auto;
+    gap: 15px;
 }
 
 .card-image,
